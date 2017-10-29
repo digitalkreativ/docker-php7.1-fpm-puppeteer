@@ -6,3 +6,7 @@ This Docker image provides the following things:
 * Nodejs 8
 * [GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer) which is a Node library to control headless Chrome version.
 * headless Chrome browser.
+
+## License
+
+License information: [MIT License](LICENSE)
